@@ -18,22 +18,4 @@
       <changefreq>daily</changefreq>
       <priority>0.5</priority>
    </url>
-   <url>
-      <loc>https://cn.belanjaeat.com/</loc>
-      <lastmod>2025-05-02</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://ml.belanjaeat.com/</loc>
-      <lastmod>2025-05-02</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.5</priority>
-   </url>
-   <url>
-      <loc>https://tm.belanjaeat.com/</loc>
-      <lastmod>2025-05-02</lastmod>
-      <changefreq>daily</changefreq>
-      <priority>0.5</priority>
-   </url>
 </urlset>
